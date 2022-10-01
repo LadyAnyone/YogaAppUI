@@ -6,7 +6,7 @@ class LoginView extends StatelessWidget {
   final String loginPicture =
       "https://www.innerjoy.app/wp-content/uploads/2021/06/Group-180-768x593.png";
   final String loginSubtitle =
-      "Lorem ipsum dolar sit amet, consectetur adipiscing";
+      "Lorem ipsum dolar sit amet, consectetur adipiscing elit";
 
   @override
   Widget build(BuildContext context) {
